@@ -9,6 +9,10 @@ Features
 - About Me section
 - Skills section
 - Projects section
+- Experiences
+- Education
+- Certificate &Achievement
+- Resume
 - Contact information
 
 Technologies Used
